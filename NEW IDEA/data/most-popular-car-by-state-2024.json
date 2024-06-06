@@ -1,0 +1,402 @@
+[
+  {
+    "state": "Alabama",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Toyota Camry",
+    "MostPopularCar4thMostPopular": "Toyota RAV4",
+    "MostPopularCar5thMostPopular": "GMC Sierra"
+  },
+  {
+    "state": "Alaska",
+    "MostPopularCarMostPopular2022": "Ram 1500/2500/3500",
+    "MostPopularCar2ndMostPopular": "Chevrolet Silverado",
+    "MostPopularCar3rdMostPopular": "Ford F-Series",
+    "MostPopularCar4thMostPopular": "GMC Sierra",
+    "MostPopularCar5thMostPopular": "Toyota RAV4"
+  },
+  {
+    "state": "Arizona",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar3rdMostPopular": "Ford F-Series",
+    "MostPopularCar4thMostPopular": "Toyota Tacoma",
+    "MostPopularCar5thMostPopular": "Toyota RAV4"
+  },
+  {
+    "state": "Arkansas",
+    "MostPopularCarMostPopular2022": "GMC Sierra",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "Chevrolet Silverado",
+    "MostPopularCar5thMostPopular": "Toyota RAV4"
+  },
+  {
+    "state": "California",
+    "MostPopularCarMostPopular2022": "Tesla Model Y",
+    "MostPopularCar2ndMostPopular": "Tesla Model 3",
+    "MostPopularCar3rdMostPopular": "Toyota RAV4",
+    "MostPopularCar4thMostPopular": "Toyota Camry",
+    "MostPopularCar5thMostPopular": "Toyota Corolla"
+  },
+  {
+    "state": "Colorado",
+    "MostPopularCarMostPopular2022": "Ford F-Series",
+    "MostPopularCar2ndMostPopular": "Toyota RAV4",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "Subaru Crosstrek",
+    "MostPopularCar5thMostPopular": "Toyota Tacoma"
+  },
+  {
+    "state": "Connecticut",
+    "MostPopularCarMostPopular2022": "Toyota RAV4",
+    "MostPopularCar2ndMostPopular": "Subaru Crosstrek",
+    "MostPopularCar3rdMostPopular": "Honda CR-V",
+    "MostPopularCar4thMostPopular": "Hyundai Tucson",
+    "MostPopularCar5thMostPopular": "Jeep Wrangler"
+  },
+  {
+    "state": "Delaware",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Toyota RAV4",
+    "MostPopularCar4thMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar5thMostPopular": "Honda CR-V"
+  },
+  {
+    "state": "Florida",
+    "MostPopularCarMostPopular2022": "Toyota Corolla",
+    "MostPopularCar2ndMostPopular": "Toyota RAV4",
+    "MostPopularCar3rdMostPopular": "Toyota Camry",
+    "MostPopularCar4thMostPopular": "Ford F-Series",
+    "MostPopularCar5thMostPopular": "Chevrolet Silverado"
+  },
+  {
+    "state": "Georgia",
+    "MostPopularCarMostPopular2022": "Ford F-Series",
+    "MostPopularCar2ndMostPopular": "Chevrolet Silverado",
+    "MostPopularCar3rdMostPopular": "Toyota RAV4",
+    "MostPopularCar4thMostPopular": "Toyota Camry",
+    "MostPopularCar5thMostPopular": "Ram 1500/2500/3500"
+  },
+  {
+    "state": "Hawaii",
+    "MostPopularCarMostPopular2022": "Toyota Tacoma",
+    "MostPopularCar2ndMostPopular": "Toyota 4Runner",
+    "MostPopularCar3rdMostPopular": "Toyota RAV4",
+    "MostPopularCar4thMostPopular": "Toyota Corolla",
+    "MostPopularCar5thMostPopular": "Tesla Model Y"
+  },
+  {
+    "state": "Idaho",
+    "MostPopularCarMostPopular2022": "Ford F-Series",
+    "MostPopularCar2ndMostPopular": "Chevrolet Silverado",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "Toyota RAV4",
+    "MostPopularCar5thMostPopular": "GMC Sierra"
+  },
+  {
+    "state": "Illinois",
+    "MostPopularCarMostPopular2022": "Toyota RAV4",
+    "MostPopularCar2ndMostPopular": "Chevrolet Silverado",
+    "MostPopularCar3rdMostPopular": "Honda CR-V",
+    "MostPopularCar4thMostPopular": "Ford F-Series",
+    "MostPopularCar5thMostPopular": "Chevrolet Equinox"
+  },
+  {
+    "state": "Indiana",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "Chevrolet Equinox",
+    "MostPopularCar5thMostPopular": "Honda CR-V"
+  },
+  {
+    "state": "Iowa",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "GMC Sierra",
+    "MostPopularCar5thMostPopular": "Chevrolet Equinox"
+  },
+  {
+    "state": "Kansas",
+    "MostPopularCarMostPopular2022": "Ford F-Series",
+    "MostPopularCar2ndMostPopular": "Chevrolet Silverado",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "GMC Sierra",
+    "MostPopularCar5thMostPopular": "Toyota RAV4"
+  },
+  {
+    "state": "Kentucky",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "Toyota RAV4",
+    "MostPopularCar5thMostPopular": "Toyota Highlander"
+  },
+  {
+    "state": "Louisiana",
+    "MostPopularCarMostPopular2022": "Ford F-Series",
+    "MostPopularCar2ndMostPopular": "Chevrolet Silverado",
+    "MostPopularCar3rdMostPopular": "GMC Sierra",
+    "MostPopularCar4thMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar5thMostPopular": "Toyota Camry"
+  },
+  {
+    "state": "Maine",
+    "MostPopularCarMostPopular2022": "Ford F-Series",
+    "MostPopularCar2ndMostPopular": "Chevrolet Silverado",
+    "MostPopularCar3rdMostPopular": "Toyota RAV4",
+    "MostPopularCar4thMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar5thMostPopular": "GMC Sierra"
+  },
+  {
+    "state": "Maryland",
+    "MostPopularCarMostPopular2022": "Toyota RAV4",
+    "MostPopularCar2ndMostPopular": "Honda CR-V",
+    "MostPopularCar3rdMostPopular": "Toyota Camry",
+    "MostPopularCar4thMostPopular": "Ford F-Series",
+    "MostPopularCar5thMostPopular": "Chevrolet Silverado"
+  },
+  {
+    "state": "Massachusetts",
+    "MostPopularCarMostPopular2022": "Toyota RAV4",
+    "MostPopularCar2ndMostPopular": "Honda CR-V",
+    "MostPopularCar3rdMostPopular": "Toyota Highlander",
+    "MostPopularCar4thMostPopular": "Jeep Grand Cherokee",
+    "MostPopularCar5thMostPopular": "Ford F-Series"
+  },
+  {
+    "state": "Michigan",
+    "MostPopularCarMostPopular2022": "Ford F-Series",
+    "MostPopularCar2ndMostPopular": "Chevrolet Equinox",
+    "MostPopularCar3rdMostPopular": "Chevrolet Silverado",
+    "MostPopularCar4thMostPopular": "Ford Escape",
+    "MostPopularCar5thMostPopular": "Chevrolet Blazer"
+  },
+  {
+    "state": "Minnesota",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "Toyota RAV4",
+    "MostPopularCar5thMostPopular": "Honda CR-V"
+  },
+  {
+    "state": "Mississippi",
+    "MostPopularCarMostPopular2022": "Ford F-Series",
+    "MostPopularCar2ndMostPopular": "Chevrolet Silverado",
+    "MostPopularCar3rdMostPopular": "Toyota Camry",
+    "MostPopularCar4thMostPopular": "GMC Sierra",
+    "MostPopularCar5thMostPopular": "Ram 1500/2500/3500"
+  },
+  {
+    "state": "Missouri",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "GMC Sierra",
+    "MostPopularCar5thMostPopular": "Toyota RAV4"
+  },
+  {
+    "state": "Montana",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "Toyota RAV4",
+    "MostPopularCar5thMostPopular": "Honda CR-V"
+  },
+  {
+    "state": "Nebraska",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "GMC Sierra",
+    "MostPopularCar5thMostPopular": "Jeep Grand Cherokee"
+  },
+  {
+    "state": "Nevada",
+    "MostPopularCarMostPopular2022": "Ram 1500/2500/3500",
+    "MostPopularCar2ndMostPopular": "Toyota RAV4",
+    "MostPopularCar3rdMostPopular": "Chevrolet Silverado",
+    "MostPopularCar4thMostPopular": "Tesla Model Y",
+    "MostPopularCar5thMostPopular": "Ford F-Series"
+  },
+  {
+    "state": "New Hampshire",
+    "MostPopularCarMostPopular2022": "Toyota RAV4",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Chevrolet Silverado",
+    "MostPopularCar4thMostPopular": "Toyota Tacoma",
+    "MostPopularCar5thMostPopular": "Ram 1500/2500/3500"
+  },
+  {
+    "state": "New Jersey",
+    "MostPopularCarMostPopular2022": "Honda CR-V",
+    "MostPopularCar2ndMostPopular": "Toyota RAV4",
+    "MostPopularCar3rdMostPopular": "Jeep Grand Cherokee",
+    "MostPopularCar4thMostPopular": "Tesla Model Y",
+    "MostPopularCar5thMostPopular": "Mazda CX-5"
+  },
+  {
+    "state": "New Mexico",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "GMC Sierra",
+    "MostPopularCar5thMostPopular": "Toyota RAV4"
+  },
+  {
+    "state": "New York",
+    "MostPopularCarMostPopular2022": "Toyota RAV4",
+    "MostPopularCar2ndMostPopular": "Jeep Grand Cherokee",
+    "MostPopularCar3rdMostPopular": "Honda CR-V",
+    "MostPopularCar4thMostPopular": "Chevrolet Equinox",
+    "MostPopularCar5thMostPopular": "Chevrolet Silverado"
+  },
+  {
+    "state": "North Carolina",
+    "MostPopularCarMostPopular2022": "Toyota RAV4",
+    "MostPopularCar2ndMostPopular": "Chevrolet Silverado",
+    "MostPopularCar3rdMostPopular": "Ford F-Series",
+    "MostPopularCar4thMostPopular": "Toyota Camry",
+    "MostPopularCar5thMostPopular": "Ram 1500/2500/3500"
+  },
+  {
+    "state": "North Dakota",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "GMC Sierra",
+    "MostPopularCar5thMostPopular": "Jeep Grand Cherokee"
+  },
+  {
+    "state": "Ohio",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Chevrolet Equinox",
+    "MostPopularCar3rdMostPopular": "Honda CR-V",
+    "MostPopularCar4thMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar5thMostPopular": "Ford F-Series"
+  },
+  {
+    "state": "Oklahoma",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "GMC Sierra",
+    "MostPopularCar5thMostPopular": "Jeep Grand Cherokee"
+  },
+  {
+    "state": "Oregon",
+    "MostPopularCarMostPopular2022": "Toyota RAV4",
+    "MostPopularCar2ndMostPopular": "Toyota Tacoma",
+    "MostPopularCar3rdMostPopular": "Ford F-Series",
+    "MostPopularCar4thMostPopular": "Subaru Crosstrek",
+    "MostPopularCar5thMostPopular": "Ram 1500/2500/3500"
+  },
+  {
+    "state": "Pennsylvania",
+    "MostPopularCarMostPopular2022": "Toyota RAV4",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Chevrolet Silverado",
+    "MostPopularCar4thMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar5thMostPopular": "Honda CR-V"
+  },
+  {
+    "state": "Rhode Island",
+    "MostPopularCarMostPopular2022": "Toyota RAV4",
+    "MostPopularCar2ndMostPopular": "Toyota Highlander",
+    "MostPopularCar3rdMostPopular": "Toyota Tacoma",
+    "MostPopularCar4thMostPopular": "Toyota Camry",
+    "MostPopularCar5thMostPopular": "Chevrolet Silverado"
+  },
+  {
+    "state": "South Carolina",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Toyota RAV4",
+    "MostPopularCar4thMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar5thMostPopular": "Toyota Camry"
+  },
+  {
+    "state": "South Dakota",
+    "MostPopularCarMostPopular2022": "Ford F-Series",
+    "MostPopularCar2ndMostPopular": "Chevrolet Silverado",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "GMC Sierra",
+    "MostPopularCar5thMostPopular": "Jeep Grand Cherokee"
+  },
+  {
+    "state": "Tennessee",
+    "MostPopularCarMostPopular2022": "Ford F-Series",
+    "MostPopularCar2ndMostPopular": "Chevrolet Silverado",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "Toyota RAV4",
+    "MostPopularCar5thMostPopular": "GMC Sierra"
+  },
+  {
+    "state": "Texas",
+    "MostPopularCarMostPopular2022": "Ford F-Series",
+    "MostPopularCar2ndMostPopular": "Chevrolet Silverado",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "GMC Sierra",
+    "MostPopularCar5thMostPopular": "Toyota RAV4"
+  },
+  {
+    "state": "Utah",
+    "MostPopularCarMostPopular2022": "Ford F-Series",
+    "MostPopularCar2ndMostPopular": "Chevrolet Silverado",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "Toyota RAV4",
+    "MostPopularCar5thMostPopular": "GMC Sierra"
+  },
+  {
+    "state": "Vermont",
+    "MostPopularCarMostPopular2022": "Ford F-Series",
+    "MostPopularCar2ndMostPopular": "Toyota RAV4",
+    "MostPopularCar3rdMostPopular": "Toyota Tacoma",
+    "MostPopularCar4thMostPopular": "Subaru Crosstrek",
+    "MostPopularCar5thMostPopular": "Ram 1500/2500/3500"
+  },
+  {
+    "state": "Virginia",
+    "MostPopularCarMostPopular2022": "Toyota RAV4",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Honda CR-V",
+    "MostPopularCar4thMostPopular": "Chevrolet Silverado",
+    "MostPopularCar5thMostPopular": "Toyota Highlander"
+  },
+  {
+    "state": "Washington",
+    "MostPopularCarMostPopular2022": "Toyota RAV4",
+    "MostPopularCar2ndMostPopular": "Tesla Model Y",
+    "MostPopularCar3rdMostPopular": "Subaru Crosstrek",
+    "MostPopularCar4thMostPopular": "Honda CR-V",
+    "MostPopularCar5thMostPopular": "Toyota Tacoma"
+  },
+  {
+    "state": "West Virginia",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "Toyota RAV4",
+    "MostPopularCar5thMostPopular": "Toyota Tacoma"
+  },
+  {
+    "state": "Wisconsin",
+    "MostPopularCarMostPopular2022": "Chevrolet Silverado",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Ram 1500/2500/3500",
+    "MostPopularCar4thMostPopular": "Chevrolet Equinox",
+    "MostPopularCar5thMostPopular": "Toyota RAV4"
+  },
+  {
+    "state": "Wyoming",
+    "MostPopularCarMostPopular2022": "Ram 1500/2500/3500",
+    "MostPopularCar2ndMostPopular": "Ford F-Series",
+    "MostPopularCar3rdMostPopular": "Chevrolet Silverado",
+    "MostPopularCar4thMostPopular": "GMC Sierra",
+    "MostPopularCar5thMostPopular": "Toyota RAV4"
+  }
+]

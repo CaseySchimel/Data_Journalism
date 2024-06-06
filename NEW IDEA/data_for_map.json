@@ -1,0 +1,1693 @@
+{
+    "motorVehicleDeaths": [
+      {
+        "Year": 2022,
+        "Data": [
+          {
+            "State": "Alabama",
+            "MotorVehicleDeathsStateOfResidence": 1039,
+            "TrafficDeathsStateOfIncident": 988,
+            "MotorVehicleDeathsPer100000Population": 20.5,
+            "TrafficDeathsPer10000MotorVehicles": 1.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "Alaska",
+            "MotorVehicleDeathsStateOfResidence": 117,
+            "TrafficDeathsStateOfIncident": 82,
+            "MotorVehicleDeathsPer100000Population": 15.9,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.5
+          },
+          {
+            "State": "Arizona",
+            "MotorVehicleDeathsStateOfResidence": 1366,
+            "TrafficDeathsStateOfIncident": 1302,
+            "MotorVehicleDeathsPer100000Population": 18.6,
+            "TrafficDeathsPer10000MotorVehicles": 2.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.7
+          },
+          {
+            "State": "Arkansas",
+            "MotorVehicleDeathsStateOfResidence": 651,
+            "TrafficDeathsStateOfIncident": 643,
+            "MotorVehicleDeathsPer100000Population": 21.4,
+            "TrafficDeathsPer10000MotorVehicles": 1.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.7
+          },
+          {
+            "State": "California",
+            "MotorVehicleDeathsStateOfResidence": 5041,
+            "TrafficDeathsStateOfIncident": 4428,
+            "MotorVehicleDeathsPer100000Population": 12.9,
+            "TrafficDeathsPer10000MotorVehicles": 1.4,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "Colorado",
+            "MotorVehicleDeathsStateOfResidence": 836,
+            "TrafficDeathsStateOfIncident": 764,
+            "MotorVehicleDeathsPer100000Population": 14.3,
+            "TrafficDeathsPer10000MotorVehicles": 1.5,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "Connecticut",
+            "MotorVehicleDeathsStateOfResidence": 387,
+            "TrafficDeathsStateOfIncident": 359,
+            "MotorVehicleDeathsPer100000Population": 10.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.3,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Delaware",
+            "MotorVehicleDeathsStateOfResidence": 155,
+            "TrafficDeathsStateOfIncident": 162,
+            "MotorVehicleDeathsPer100000Population": 15.2,
+            "TrafficDeathsPer10000MotorVehicles": 3.5,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "District of Columbia",
+            "MotorVehicleDeathsStateOfResidence": 59,
+            "TrafficDeathsStateOfIncident": 32,
+            "MotorVehicleDeathsPer100000Population": 8.8,
+            "TrafficDeathsPer10000MotorVehicles": 0.8,
+            "TrafficDeathsPer100000000VehicleMiles": 0.9
+          },
+          {
+            "State": "Florida",
+            "MotorVehicleDeathsStateOfResidence": 3706,
+            "TrafficDeathsStateOfIncident": 3530,
+            "MotorVehicleDeathsPer100000Population": 16.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.5
+          },
+          {
+            "State": "Georgia",
+            "MotorVehicleDeathsStateOfResidence": 1908,
+            "TrafficDeathsStateOfIncident": 1797,
+            "MotorVehicleDeathsPer100000Population": 17.5,
+            "TrafficDeathsPer10000MotorVehicles": 2.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "Hawaii",
+            "MotorVehicleDeathsStateOfResidence": 113,
+            "TrafficDeathsStateOfIncident": 116,
+            "MotorVehicleDeathsPer100000Population": 7.8,
+            "TrafficDeathsPer10000MotorVehicles": 0.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "Idaho",
+            "MotorVehicleDeathsStateOfResidence": 271,
+            "TrafficDeathsStateOfIncident": 215,
+            "MotorVehicleDeathsPer100000Population": 14.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "Illinois",
+            "MotorVehicleDeathsStateOfResidence": 1352,
+            "TrafficDeathsStateOfIncident": 1268,
+            "MotorVehicleDeathsPer100000Population": 10.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Indiana",
+            "MotorVehicleDeathsStateOfResidence": 1012,
+            "TrafficDeathsStateOfIncident": 949,
+            "MotorVehicleDeathsPer100000Population": 14.8,
+            "TrafficDeathsPer10000MotorVehicles": 1.5,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "Iowa",
+            "MotorVehicleDeathsStateOfResidence": 385,
+            "TrafficDeathsStateOfIncident": 338,
+            "MotorVehicleDeathsPer100000Population": 12.0,
+            "TrafficDeathsPer10000MotorVehicles": 0.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "Kansas",
+            "MotorVehicleDeathsStateOfResidence": 457,
+            "TrafficDeathsStateOfIncident": 410,
+            "MotorVehicleDeathsPer100000Population": 15.6,
+            "TrafficDeathsPer10000MotorVehicles": 1.6,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "Kentucky",
+            "MotorVehicleDeathsStateOfResidence": 786,
+            "TrafficDeathsStateOfIncident": 744,
+            "MotorVehicleDeathsPer100000Population": 17.4,
+            "TrafficDeathsPer10000MotorVehicles": 1.7,
+            "TrafficDeathsPer100000000VehicleMiles": 1.5
+          },
+          {
+            "State": "Louisiana",
+            "MotorVehicleDeathsStateOfResidence": 950,
+            "TrafficDeathsStateOfIncident": 906,
+            "MotorVehicleDeathsPer100000Population": 20.7,
+            "TrafficDeathsPer10000MotorVehicles": 2.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Maine",
+            "MotorVehicleDeathsStateOfResidence": 201,
+            "TrafficDeathsStateOfIncident": 182,
+            "MotorVehicleDeathsPer100000Population": 14.5,
+            "TrafficDeathsPer10000MotorVehicles": 1.4,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Maryland",
+            "MotorVehicleDeathsStateOfResidence": 626,
+            "TrafficDeathsStateOfIncident": 564,
+            "MotorVehicleDeathsPer100000Population": 10.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "Massachusetts",
+            "MotorVehicleDeathsStateOfResidence": 479,
+            "TrafficDeathsStateOfIncident": 434,
+            "MotorVehicleDeathsPer100000Population": 6.9,
+            "TrafficDeathsPer10000MotorVehicles": 0.8,
+            "TrafficDeathsPer100000000VehicleMiles": 0.8
+          },
+          {
+            "State": "Michigan",
+            "MotorVehicleDeathsStateOfResidence": 1223,
+            "TrafficDeathsStateOfIncident": 1124,
+            "MotorVehicleDeathsPer100000Population": 12.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Minnesota",
+            "MotorVehicleDeathsStateOfResidence": 553,
+            "TrafficDeathsStateOfIncident": 444,
+            "MotorVehicleDeathsPer100000Population": 9.7,
+            "TrafficDeathsPer10000MotorVehicles": 0.8,
+            "TrafficDeathsPer100000000VehicleMiles": 0.8
+          },
+          {
+            "State": "Mississippi",
+            "MotorVehicleDeathsStateOfResidence": 763,
+            "TrafficDeathsStateOfIncident": 703,
+            "MotorVehicleDeathsPer100000Population": 26.0,
+            "TrafficDeathsPer10000MotorVehicles": 3.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.8
+          },
+          {
+            "State": "Missouri",
+            "MotorVehicleDeathsStateOfResidence": 1111,
+            "TrafficDeathsStateOfIncident": 1057,
+            "MotorVehicleDeathsPer100000Population": 18.0,
+            "TrafficDeathsPer10000MotorVehicles": 2.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "Montana",
+            "MotorVehicleDeathsStateOfResidence": 231,
+            "TrafficDeathsStateOfIncident": 213,
+            "MotorVehicleDeathsPer100000Population": 20.6,
+            "TrafficDeathsPer10000MotorVehicles": 0.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Nebraska",
+            "MotorVehicleDeathsStateOfResidence": 279,
+            "TrafficDeathsStateOfIncident": 244,
+            "MotorVehicleDeathsPer100000Population": 14.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "Nevada",
+            "MotorVehicleDeathsStateOfResidence": 440,
+            "TrafficDeathsStateOfIncident": 416,
+            "MotorVehicleDeathsPer100000Population": 13.8,
+            "TrafficDeathsPer10000MotorVehicles": 1.6,
+            "TrafficDeathsPer100000000VehicleMiles": 1.5
+          },
+          {
+            "State": "New Hampshire",
+            "MotorVehicleDeathsStateOfResidence": 154,
+            "TrafficDeathsStateOfIncident": 146,
+            "MotorVehicleDeathsPer100000Population": 11.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "New Jersey",
+            "MotorVehicleDeathsStateOfResidence": 717,
+            "TrafficDeathsStateOfIncident": 685,
+            "MotorVehicleDeathsPer100000Population": 7.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 0.9
+          },
+          {
+            "State": "New Mexico",
+            "MotorVehicleDeathsStateOfResidence": 486,
+            "TrafficDeathsStateOfIncident": 466,
+            "MotorVehicleDeathsPer100000Population": 23.0,
+            "TrafficDeathsPer10000MotorVehicles": 2.5,
+            "TrafficDeathsPer100000000VehicleMiles": 1.7
+          },
+          {
+            "State": "New York",
+            "MotorVehicleDeathsStateOfResidence": 1384,
+            "TrafficDeathsStateOfIncident": 1175,
+            "MotorVehicleDeathsPer100000Population": 7.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.3,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "North Carolina",
+            "MotorVehicleDeathsStateOfResidence": 1854,
+            "TrafficDeathsStateOfIncident": 1630,
+            "MotorVehicleDeathsPer100000Population": 17.3,
+            "TrafficDeathsPer10000MotorVehicles": 1.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "North Dakota",
+            "MotorVehicleDeathsStateOfResidence": 108,
+            "TrafficDeathsStateOfIncident": 98,
+            "MotorVehicleDeathsPer100000Population": 13.9,
+            "TrafficDeathsPer10000MotorVehicles": 0.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "Ohio",
+            "MotorVehicleDeathsStateOfResidence": 1395,
+            "TrafficDeathsStateOfIncident": 1275,
+            "MotorVehicleDeathsPer100000Population": 11.9,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Oklahoma",
+            "MotorVehicleDeathsStateOfResidence": 777,
+            "TrafficDeathsStateOfIncident": 710,
+            "MotorVehicleDeathsPer100000Population": 19.3,
+            "TrafficDeathsPer10000MotorVehicles": 2.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Oregon",
+            "MotorVehicleDeathsStateOfResidence": 616,
+            "TrafficDeathsStateOfIncident": 601,
+            "MotorVehicleDeathsPer100000Population": 14.5,
+            "TrafficDeathsPer10000MotorVehicles": 1.5,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Pennsylvania",
+            "MotorVehicleDeathsStateOfResidence": 1337,
+            "TrafficDeathsStateOfIncident": 1179,
+            "MotorVehicleDeathsPer100000Population": 10.3,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Rhode Island",
+            "MotorVehicleDeathsStateOfResidence": 77,
+            "TrafficDeathsStateOfIncident": 52,
+            "MotorVehicleDeathsPer100000Population": 7.0,
+            "TrafficDeathsPer10000MotorVehicles": 0.6,
+            "TrafficDeathsPer100000000VehicleMiles": 0.7
+          },
+          {
+            "State": "South Carolina",
+            "MotorVehicleDeathsStateOfResidence": 1141,
+            "TrafficDeathsStateOfIncident": 1094,
+            "MotorVehicleDeathsPer100000Population": 21.6,
+            "TrafficDeathsPer10000MotorVehicles": 2.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.9
+          },
+          {
+            "State": "South Dakota",
+            "MotorVehicleDeathsStateOfResidence": 167,
+            "TrafficDeathsStateOfIncident": 137,
+            "MotorVehicleDeathsPer100000Population": 18.4,
+            "TrafficDeathsPer10000MotorVehicles": 1.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "Tennessee",
+            "MotorVehicleDeathsStateOfResidence": 1338,
+            "TrafficDeathsStateOfIncident": 1314,
+            "MotorVehicleDeathsPer100000Population": 19.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Texas",
+            "MotorVehicleDeathsStateOfResidence": 4584,
+            "TrafficDeathsStateOfIncident": 4408,
+            "MotorVehicleDeathsPer100000Population": 15.3,
+            "TrafficDeathsPer10000MotorVehicles": 1.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.5
+          },
+          {
+            "State": "Utah",
+            "MotorVehicleDeathsStateOfResidence": 323,
+            "TrafficDeathsStateOfIncident": 319,
+            "MotorVehicleDeathsPer100000Population": 9.6,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 0.9
+          },
+          {
+            "State": "Vermont",
+            "MotorVehicleDeathsStateOfResidence": 81,
+            "TrafficDeathsStateOfIncident": 76,
+            "MotorVehicleDeathsPer100000Population": 12.5,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "Virginia",
+            "MotorVehicleDeathsStateOfResidence": 1086,
+            "TrafficDeathsStateOfIncident": 1008,
+            "MotorVehicleDeathsPer100000Population": 12.5,
+            "TrafficDeathsPer10000MotorVehicles": 1.3,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Washington",
+            "MotorVehicleDeathsStateOfResidence": 844,
+            "TrafficDeathsStateOfIncident": 733,
+            "MotorVehicleDeathsPer100000Population": 10.8,
+            "TrafficDeathsPer10000MotorVehicles": 0.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "West Virginia",
+            "MotorVehicleDeathsStateOfResidence": 290,
+            "TrafficDeathsStateOfIncident": 264,
+            "MotorVehicleDeathsPer100000Population": 16.3,
+            "TrafficDeathsPer10000MotorVehicles": 1.6,
+            "TrafficDeathsPer100000000VehicleMiles": 1.7
+          },
+          {
+            "State": "Wisconsin",
+            "MotorVehicleDeathsStateOfResidence": 661,
+            "TrafficDeathsStateOfIncident": 596,
+            "MotorVehicleDeathsPer100000Population": 11.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.0,
+            "TrafficDeathsPer100000000VehicleMiles": 0.9
+          },
+          {
+            "State": "Wyoming",
+            "MotorVehicleDeathsStateOfResidence": 110,
+            "TrafficDeathsStateOfIncident": 134,
+            "MotorVehicleDeathsPer100000Population": 18.9,
+            "TrafficDeathsPer10000MotorVehicles": 1.5,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "U.S Total",
+            "MotorVehicleDeathsStateOfResidence": 46027,
+            "TrafficDeathsStateOfIncident": 42514,
+            "MotorVehicleDeathsPer100000Population": 13.8,
+            "TrafficDeathsPer10000MotorVehicles": 1.5,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          }
+        ]
+      },
+      {
+        "Year": 2021,
+        "Data": [
+          {
+            "State": "Alabama",
+            "MotorVehicleDeathsStateOfResidence": 1058,
+            "TrafficDeathsStateOfIncident": 983,
+            "MotorVehicleDeathsPer100000Population": 21.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Alaska",
+            "MotorVehicleDeathsStateOfResidence": 97,
+            "TrafficDeathsStateOfIncident": 70,
+            "MotorVehicleDeathsPer100000Population": 13.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Arizona",
+            "MotorVehicleDeathsStateOfResidence": 1369,
+            "TrafficDeathsStateOfIncident": 1192,
+            "MotorVehicleDeathsPer100000Population": 18.8,
+            "TrafficDeathsPer10000MotorVehicles": 2.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Arkansas",
+            "MotorVehicleDeathsStateOfResidence": 731,
+            "TrafficDeathsStateOfIncident": 692,
+            "MotorVehicleDeathsPer100000Population": 24.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.8
+          },
+          {
+            "State": "California",
+            "MotorVehicleDeathsStateOfResidence": 4986,
+            "TrafficDeathsStateOfIncident": 4513,
+            "MotorVehicleDeathsPer100000Population": 12.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.4,
+            "TrafficDeathsPer100000000VehicleMiles": 1.5
+          },
+          {
+            "State": "Colorado",
+            "MotorVehicleDeathsStateOfResidence": 754,
+            "TrafficDeathsStateOfIncident": 691,
+            "MotorVehicleDeathsPer100000Population": 13.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.4,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "Connecticut",
+            "MotorVehicleDeathsStateOfResidence": 330,
+            "TrafficDeathsStateOfIncident": 303,
+            "MotorVehicleDeathsPer100000Population": 9.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "Delaware",
+            "MotorVehicleDeathsStateOfResidence": 147,
+            "TrafficDeathsStateOfIncident": 136,
+            "MotorVehicleDeathsPer100000Population": 14.7,
+            "TrafficDeathsPer10000MotorVehicles": 2.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "District of Columbia",
+            "MotorVehicleDeathsStateOfResidence": 59,
+            "TrafficDeathsStateOfIncident": 41,
+            "MotorVehicleDeathsPer100000Population": 8.8,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "Florida",
+            "MotorVehicleDeathsStateOfResidence": 3906,
+            "TrafficDeathsStateOfIncident": 3741,
+            "MotorVehicleDeathsPer100000Population": 17.9,
+            "TrafficDeathsPer10000MotorVehicles": 2.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.7
+          },
+          {
+            "State": "Georgia",
+            "MotorVehicleDeathsStateOfResidence": 1976,
+            "TrafficDeathsStateOfIncident": 1809,
+            "MotorVehicleDeathsPer100000Population": 18.3,
+            "TrafficDeathsPer10000MotorVehicles": 2.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.5
+          },
+          {
+            "State": "Hawaii",
+            "MotorVehicleDeathsStateOfResidence": 95,
+            "TrafficDeathsStateOfIncident": 94,
+            "MotorVehicleDeathsPer100000Population": 6.6,
+            "TrafficDeathsPer10000MotorVehicles": 0.8,
+            "TrafficDeathsPer100000000VehicleMiles": 0.9
+          },
+          {
+            "State": "Idaho",
+            "MotorVehicleDeathsStateOfResidence": 316,
+            "TrafficDeathsStateOfIncident": 273,
+            "MotorVehicleDeathsPer100000Population": 16.6,
+            "TrafficDeathsPer10000MotorVehicles": 1.4,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "Illinois",
+            "MotorVehicleDeathsStateOfResidence": 1473,
+            "TrafficDeathsStateOfIncident": 1334,
+            "MotorVehicleDeathsPer100000Population": 11.6,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "Indiana",
+            "MotorVehicleDeathsStateOfResidence": 999,
+            "TrafficDeathsStateOfIncident": 932,
+            "MotorVehicleDeathsPer100000Population": 14.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.5,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Iowa",
+            "MotorVehicleDeathsStateOfResidence": 372,
+            "TrafficDeathsStateOfIncident": 356,
+            "MotorVehicleDeathsPer100000Population": 11.7,
+            "TrafficDeathsPer10000MotorVehicles": 0.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "Kansas",
+            "MotorVehicleDeathsStateOfResidence": 470,
+            "TrafficDeathsStateOfIncident": 423,
+            "MotorVehicleDeathsPer100000Population": 16.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.6,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "Kentucky",
+            "MotorVehicleDeathsStateOfResidence": 820,
+            "TrafficDeathsStateOfIncident": 806,
+            "MotorVehicleDeathsPer100000Population": 18.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.7
+          },
+          {
+            "State": "Louisiana",
+            "MotorVehicleDeathsStateOfResidence": 1028,
+            "TrafficDeathsStateOfIncident": 971,
+            "MotorVehicleDeathsPer100000Population": 22.2,
+            "TrafficDeathsPer10000MotorVehicles": 2.5,
+            "TrafficDeathsPer100000000VehicleMiles": 1.8
+          },
+          {
+            "State": "Maine",
+            "MotorVehicleDeathsStateOfResidence": 184,
+            "TrafficDeathsStateOfIncident": 153,
+            "MotorVehicleDeathsPer100000Population": 13.4,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "Maryland",
+            "MotorVehicleDeathsStateOfResidence": 661,
+            "TrafficDeathsStateOfIncident": 563,
+            "MotorVehicleDeathsPer100000Population": 10.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "Massachusetts",
+            "MotorVehicleDeathsStateOfResidence": 461,
+            "TrafficDeathsStateOfIncident": 413,
+            "MotorVehicleDeathsPer100000Population": 6.6,
+            "TrafficDeathsPer10000MotorVehicles": 0.8,
+            "TrafficDeathsPer100000000VehicleMiles": 0.7
+          },
+          {
+            "State": "Michigan",
+            "MotorVehicleDeathsStateOfResidence": 1341,
+            "TrafficDeathsStateOfIncident": 1137,
+            "MotorVehicleDeathsPer100000Population": 13.3,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Minnesota",
+            "MotorVehicleDeathsStateOfResidence": 603,
+            "TrafficDeathsStateOfIncident": 488,
+            "MotorVehicleDeathsPer100000Population": 10.6,
+            "TrafficDeathsPer10000MotorVehicles": 0.9,
+            "TrafficDeathsPer100000000VehicleMiles": 0.9
+          },
+          {
+            "State": "Mississippi",
+            "MotorVehicleDeathsStateOfResidence": 867,
+            "TrafficDeathsStateOfIncident": 766,
+            "MotorVehicleDeathsPer100000Population": 29.4,
+            "TrafficDeathsPer10000MotorVehicles": 3.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.9
+          },
+          {
+            "State": "Missouri",
+            "MotorVehicleDeathsStateOfResidence": 1061,
+            "TrafficDeathsStateOfIncident": 1016,
+            "MotorVehicleDeathsPer100000Population": 17.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "Montana",
+            "MotorVehicleDeathsStateOfResidence": 269,
+            "TrafficDeathsStateOfIncident": 239,
+            "MotorVehicleDeathsPer100000Population": 24.4,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.8
+          },
+          {
+            "State": "Nebraska",
+            "MotorVehicleDeathsStateOfResidence": 254,
+            "TrafficDeathsStateOfIncident": 221,
+            "MotorVehicleDeathsPer100000Population": 12.9,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "Nevada",
+            "MotorVehicleDeathsStateOfResidence": 410,
+            "TrafficDeathsStateOfIncident": 385,
+            "MotorVehicleDeathsPer100000Population": 13.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.4,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "New Hampshire",
+            "MotorVehicleDeathsStateOfResidence": 144,
+            "TrafficDeathsStateOfIncident": 118,
+            "MotorVehicleDeathsPer100000Population": 10.4,
+            "TrafficDeathsPer10000MotorVehicles": 0.8,
+            "TrafficDeathsPer100000000VehicleMiles": 0.9
+          },
+          {
+            "State": "New Jersey",
+            "MotorVehicleDeathsStateOfResidence": 711,
+            "TrafficDeathsStateOfIncident": 692,
+            "MotorVehicleDeathsPer100000Population": 7.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 0.9
+          },
+          {
+            "State": "New Mexico",
+            "MotorVehicleDeathsStateOfResidence": 472,
+            "TrafficDeathsStateOfIncident": 483,
+            "MotorVehicleDeathsPer100000Population": 22.3,
+            "TrafficDeathsPer10000MotorVehicles": 2.6,
+            "TrafficDeathsPer100000000VehicleMiles": 1.8
+          },
+          {
+            "State": "New York",
+            "MotorVehicleDeathsStateOfResidence": 1387,
+            "TrafficDeathsStateOfIncident": 1156,
+            "MotorVehicleDeathsPer100000Population": 7.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "North Carolina",
+            "MotorVehicleDeathsStateOfResidence": 1923,
+            "TrafficDeathsStateOfIncident": 1693,
+            "MotorVehicleDeathsPer100000Population": 18.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "North Dakota",
+            "MotorVehicleDeathsStateOfResidence": 119,
+            "TrafficDeathsStateOfIncident": 101,
+            "MotorVehicleDeathsPer100000Population": 15.4,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "Ohio",
+            "MotorVehicleDeathsStateOfResidence": 1508,
+            "TrafficDeathsStateOfIncident": 1354,
+            "MotorVehicleDeathsPer100000Population": 12.8,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Oklahoma",
+            "MotorVehicleDeathsStateOfResidence": 827,
+            "TrafficDeathsStateOfIncident": 762,
+            "MotorVehicleDeathsPer100000Population": 20.7,
+            "TrafficDeathsPer10000MotorVehicles": 2.3,
+            "TrafficDeathsPer100000000VehicleMiles": 1.7
+          },
+          {
+            "State": "Oregon",
+            "MotorVehicleDeathsStateOfResidence": 608,
+            "TrafficDeathsStateOfIncident": 599,
+            "MotorVehicleDeathsPer100000Population": 14.3,
+            "TrafficDeathsPer10000MotorVehicles": 1.5,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Pennsylvania",
+            "MotorVehicleDeathsStateOfResidence": 1378,
+            "TrafficDeathsStateOfIncident": 1230,
+            "MotorVehicleDeathsPer100000Population": 10.6,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Rhode Island",
+            "MotorVehicleDeathsStateOfResidence": 81,
+            "TrafficDeathsStateOfIncident": 63,
+            "MotorVehicleDeathsPer100000Population": 7.4,
+            "TrafficDeathsPer10000MotorVehicles": 0.8,
+            "TrafficDeathsPer100000000VehicleMiles": 0.8
+          },
+          {
+            "State": "South Carolina",
+            "MotorVehicleDeathsStateOfResidence": 1231,
+            "TrafficDeathsStateOfIncident": 1198,
+            "MotorVehicleDeathsPer100000Population": 23.7,
+            "TrafficDeathsPer10000MotorVehicles": 2.4,
+            "TrafficDeathsPer100000000VehicleMiles": 2.1
+          },
+          {
+            "State": "South Dakota",
+            "MotorVehicleDeathsStateOfResidence": 173,
+            "TrafficDeathsStateOfIncident": 148,
+            "MotorVehicleDeathsPer100000Population": 19.3,
+            "TrafficDeathsPer10000MotorVehicles": 1.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.5
+          },
+          {
+            "State": "Tennessee",
+            "MotorVehicleDeathsStateOfResidence": 1428,
+            "TrafficDeathsStateOfIncident": 1327,
+            "MotorVehicleDeathsPer100000Population": 20.5,
+            "TrafficDeathsPer10000MotorVehicles": 2.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Texas",
+            "MotorVehicleDeathsStateOfResidence": 4588,
+            "TrafficDeathsStateOfIncident": 4500,
+            "MotorVehicleDeathsPer100000Population": 15.5,
+            "TrafficDeathsPer10000MotorVehicles": 2.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Utah",
+            "MotorVehicleDeathsStateOfResidence": 355,
+            "TrafficDeathsStateOfIncident": 332,
+            "MotorVehicleDeathsPer100000Population": 10.6,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "Vermont",
+            "MotorVehicleDeathsStateOfResidence": 72,
+            "TrafficDeathsStateOfIncident": 74,
+            "MotorVehicleDeathsPer100000Population": 11.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "Virginia",
+            "MotorVehicleDeathsStateOfResidence": 1024,
+            "TrafficDeathsStateOfIncident": 973,
+            "MotorVehicleDeathsPer100000Population": 11.8,
+            "TrafficDeathsPer10000MotorVehicles": 1.3,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Washington",
+            "MotorVehicleDeathsStateOfResidence": 765,
+            "TrafficDeathsStateOfIncident": 674,
+            "MotorVehicleDeathsPer100000Population": 9.9,
+            "TrafficDeathsPer10000MotorVehicles": 0.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "West Virginia",
+            "MotorVehicleDeathsStateOfResidence": 300,
+            "TrafficDeathsStateOfIncident": 282,
+            "MotorVehicleDeathsPer100000Population": 16.8,
+            "TrafficDeathsPer10000MotorVehicles": 2.3,
+            "TrafficDeathsPer100000000VehicleMiles": 1.8
+          },
+          {
+            "State": "Wisconsin",
+            "MotorVehicleDeathsStateOfResidence": 689,
+            "TrafficDeathsStateOfIncident": 620,
+            "MotorVehicleDeathsPer100000Population": 11.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "Wyoming",
+            "MotorVehicleDeathsStateOfResidence": 100,
+            "TrafficDeathsStateOfIncident": 110,
+            "MotorVehicleDeathsPer100000Population": 17.3,
+            "TrafficDeathsPer10000MotorVehicles": 1.3,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "U.S Total",
+            "MotorVehicleDeathsStateOfResidence": 46980,
+            "TrafficDeathsStateOfIncident": 43230,
+            "MotorVehicleDeathsPer100000Population": 14.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.5,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          }
+        ]
+      },
+      {
+        "Year": 2020,
+        "Data": [
+          {
+            "State": "Alabama",
+            "MotorVehicleDeathsStateOfResidence": 983,
+            "TrafficDeathsStateOfIncident": 934,
+            "MotorVehicleDeathsPer100000Population": 20.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "Alaska",
+            "MotorVehicleDeathsStateOfResidence": 81,
+            "TrafficDeathsStateOfIncident": 64,
+            "MotorVehicleDeathsPer100000Population": 11.1,
+            "TrafficDeathsPer10000MotorVehicles": 0.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Arizona",
+            "MotorVehicleDeathsStateOfResidence": 1041,
+            "TrafficDeathsStateOfIncident": 1053,
+            "MotorVehicleDeathsPer100000Population": 14.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.7,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Arkansas",
+            "MotorVehicleDeathsStateOfResidence": 683,
+            "TrafficDeathsStateOfIncident": 651,
+            "MotorVehicleDeathsPer100000Population": 22.5,
+            "TrafficDeathsPer10000MotorVehicles": 2.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.9
+          },
+          {
+            "State": "California",
+            "MotorVehicleDeathsStateOfResidence": 4462,
+            "TrafficDeathsStateOfIncident": 3980,
+            "MotorVehicleDeathsPer100000Population": 11.3,
+            "TrafficDeathsPer10000MotorVehicles": 1.3,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "Colorado",
+            "MotorVehicleDeathsStateOfResidence": 676,
+            "TrafficDeathsStateOfIncident": 622,
+            "MotorVehicleDeathsPer100000Population": 11.6,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "Connecticut",
+            "MotorVehicleDeathsStateOfResidence": 325,
+            "TrafficDeathsStateOfIncident": 299,
+            "MotorVehicleDeathsPer100000Population": 9.1,
+            "TrafficDeathsPer10000MotorVehicles": 1.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "Delaware",
+            "MotorVehicleDeathsStateOfResidence": 124,
+            "TrafficDeathsStateOfIncident": 116,
+            "MotorVehicleDeathsPer100000Population": 12.6,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "District of Columbia",
+            "MotorVehicleDeathsStateOfResidence": 44,
+            "TrafficDeathsStateOfIncident": 36,
+            "MotorVehicleDeathsPer100000Population": 6.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Florida",
+            "MotorVehicleDeathsStateOfResidence": 3517,
+            "TrafficDeathsStateOfIncident": 3329,
+            "MotorVehicleDeathsPer100000Population": 16.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Georgia",
+            "MotorVehicleDeathsStateOfResidence": 1793,
+            "TrafficDeathsStateOfIncident": 1658,
+            "MotorVehicleDeathsPer100000Population": 16.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "Hawaii",
+            "MotorVehicleDeathsStateOfResidence": 88,
+            "TrafficDeathsStateOfIncident": 85,
+            "MotorVehicleDeathsPer100000Population": 6.3,
+            "TrafficDeathsPer10000MotorVehicles": 0.7,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "Idaho",
+            "MotorVehicleDeathsStateOfResidence": 243,
+            "TrafficDeathsStateOfIncident": 214,
+            "MotorVehicleDeathsPer100000Population": 13.3,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Illinois",
+            "MotorVehicleDeathsStateOfResidence": 1318,
+            "TrafficDeathsStateOfIncident": 1193,
+            "MotorVehicleDeathsPer100000Population": 10.5,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "Indiana",
+            "MotorVehicleDeathsStateOfResidence": 952,
+            "TrafficDeathsStateOfIncident": 897,
+            "MotorVehicleDeathsPer100000Population": 14.1,
+            "TrafficDeathsPer10000MotorVehicles": 1.4,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Iowa",
+            "MotorVehicleDeathsStateOfResidence": 366,
+            "TrafficDeathsStateOfIncident": 343,
+            "MotorVehicleDeathsPer100000Population": 11.6,
+            "TrafficDeathsPer10000MotorVehicles": 0.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Kansas",
+            "MotorVehicleDeathsStateOfResidence": 427,
+            "TrafficDeathsStateOfIncident": 426,
+            "MotorVehicleDeathsPer100000Population": 14.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.6,
+            "TrafficDeathsPer100000000VehicleMiles": 1.5
+          },
+          {
+            "State": "Kentucky",
+            "MotorVehicleDeathsStateOfResidence": 858,
+            "TrafficDeathsStateOfIncident": 780,
+            "MotorVehicleDeathsPer100000Population": 19.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.7,
+            "TrafficDeathsPer100000000VehicleMiles": 1.7
+          },
+          {
+            "State": "Louisiana",
+            "MotorVehicleDeathsStateOfResidence": 853,
+            "TrafficDeathsStateOfIncident": 828,
+            "MotorVehicleDeathsPer100000Population": 18.4,
+            "TrafficDeathsPer10000MotorVehicles": 2.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.7
+          },
+          {
+            "State": "Maine",
+            "MotorVehicleDeathsStateOfResidence": 188,
+            "TrafficDeathsStateOfIncident": 164,
+            "MotorVehicleDeathsPer100000Population": 13.9,
+            "TrafficDeathsPer10000MotorVehicles": 1.5,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "Maryland",
+            "MotorVehicleDeathsStateOfResidence": 632,
+            "TrafficDeathsStateOfIncident": 573,
+            "MotorVehicleDeathsPer100000Population": 10.4,
+            "TrafficDeathsPer10000MotorVehicles": 1.4,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "Massachusetts",
+            "MotorVehicleDeathsStateOfResidence": 383,
+            "TrafficDeathsStateOfIncident": 343,
+            "MotorVehicleDeathsPer100000Population": 5.6,
+            "TrafficDeathsPer10000MotorVehicles": 0.7,
+            "TrafficDeathsPer100000000VehicleMiles": 0.6
+          },
+          {
+            "State": "Michigan",
+            "MotorVehicleDeathsStateOfResidence": 1218,
+            "TrafficDeathsStateOfIncident": 1086,
+            "MotorVehicleDeathsPer100000Population": 12.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.3,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "Minnesota",
+            "MotorVehicleDeathsStateOfResidence": 496,
+            "TrafficDeathsStateOfIncident": 394,
+            "MotorVehicleDeathsPer100000Population": 8.8,
+            "TrafficDeathsPer10000MotorVehicles": 0.7,
+            "TrafficDeathsPer100000000VehicleMiles": 0.8
+          },
+          {
+            "State": "Mississippi",
+            "MotorVehicleDeathsStateOfResidence": 843,
+            "TrafficDeathsStateOfIncident": 748,
+            "MotorVehicleDeathsPer100000Population": 28.4,
+            "TrafficDeathsPer10000MotorVehicles": 3.6,
+            "TrafficDeathsPer100000000VehicleMiles": 1.9
+          },
+          {
+            "State": "Missouri",
+            "MotorVehicleDeathsStateOfResidence": 1034,
+            "TrafficDeathsStateOfIncident": 987,
+            "MotorVehicleDeathsPer100000Population": 16.8,
+            "TrafficDeathsPer10000MotorVehicles": 1.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "Montana",
+            "MotorVehicleDeathsStateOfResidence": 207,
+            "TrafficDeathsStateOfIncident": 213,
+            "MotorVehicleDeathsPer100000Population": 19.2,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.8
+          },
+          {
+            "State": "Nebraska",
+            "MotorVehicleDeathsStateOfResidence": 238,
+            "TrafficDeathsStateOfIncident": 233,
+            "MotorVehicleDeathsPer100000Population": 12.3,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Nevada",
+            "MotorVehicleDeathsStateOfResidence": 361,
+            "TrafficDeathsStateOfIncident": 333,
+            "MotorVehicleDeathsPer100000Population": 11.5,
+            "TrafficDeathsPer10000MotorVehicles": 1.3,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "New Hampshire",
+            "MotorVehicleDeathsStateOfResidence": 121,
+            "TrafficDeathsStateOfIncident": 104,
+            "MotorVehicleDeathsPer100000Population": 8.9,
+            "TrafficDeathsPer10000MotorVehicles": 0.8,
+            "TrafficDeathsPer100000000VehicleMiles": 0.9
+          },
+          {
+            "State": "New Jersey",
+            "MotorVehicleDeathsStateOfResidence": 624,
+            "TrafficDeathsStateOfIncident": 586,
+            "MotorVehicleDeathsPer100000Population": 7.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.0,
+            "TrafficDeathsPer100000000VehicleMiles": 0.9
+          },
+          {
+            "State": "New Mexico",
+            "MotorVehicleDeathsStateOfResidence": 421,
+            "TrafficDeathsStateOfIncident": 398,
+            "MotorVehicleDeathsPer100000Population": 20.0,
+            "TrafficDeathsPer10000MotorVehicles": 2.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.7
+          },
+          {
+            "State": "New York",
+            "MotorVehicleDeathsStateOfResidence": 1204,
+            "TrafficDeathsStateOfIncident": 1045,
+            "MotorVehicleDeathsPer100000Population": 6.2,
+            "TrafficDeathsPer10000MotorVehicles": 0.9,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "North Carolina",
+            "MotorVehicleDeathsStateOfResidence": 1771,
+            "TrafficDeathsStateOfIncident": 1538,
+            "MotorVehicleDeathsPer100000Population": 16.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "North Dakota",
+            "MotorVehicleDeathsStateOfResidence": 104,
+            "TrafficDeathsStateOfIncident": 100,
+            "MotorVehicleDeathsPer100000Population": 13.6,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "Ohio",
+            "MotorVehicleDeathsStateOfResidence": 1372,
+            "TrafficDeathsStateOfIncident": 1230,
+            "MotorVehicleDeathsPer100000Population": 11.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.2
+          },
+          {
+            "State": "Oklahoma",
+            "MotorVehicleDeathsStateOfResidence": 717,
+            "TrafficDeathsStateOfIncident": 653,
+            "MotorVehicleDeathsPer100000Population": 18.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Oregon",
+            "MotorVehicleDeathsStateOfResidence": 526,
+            "TrafficDeathsStateOfIncident": 507,
+            "MotorVehicleDeathsPer100000Population": 12.4,
+            "TrafficDeathsPer10000MotorVehicles": 1.2,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Pennsylvania",
+            "MotorVehicleDeathsStateOfResidence": 1242,
+            "TrafficDeathsStateOfIncident": 1129,
+            "MotorVehicleDeathsPer100000Population": 9.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.3
+          },
+          {
+            "State": "Rhode Island",
+            "MotorVehicleDeathsStateOfResidence": 74,
+            "TrafficDeathsStateOfIncident": 67,
+            "MotorVehicleDeathsPer100000Population": 7.0,
+            "TrafficDeathsPer10000MotorVehicles": 0.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "South Carolina",
+            "MotorVehicleDeathsStateOfResidence": 1115,
+            "TrafficDeathsStateOfIncident": 1066,
+            "MotorVehicleDeathsPer100000Population": 21.4,
+            "TrafficDeathsPer10000MotorVehicles": 2.3,
+            "TrafficDeathsPer100000000VehicleMiles": 2.0
+          },
+          {
+            "State": "South Dakota",
+            "MotorVehicleDeathsStateOfResidence": 153,
+            "TrafficDeathsStateOfIncident": 141,
+            "MotorVehicleDeathsPer100000Population": 17.1,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.4
+          },
+          {
+            "State": "Tennessee",
+            "MotorVehicleDeathsStateOfResidence": 1265,
+            "TrafficDeathsStateOfIncident": 1217,
+            "MotorVehicleDeathsPer100000Population": 18.4,
+            "TrafficDeathsPer10000MotorVehicles": 2.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.6
+          },
+          {
+            "State": "Texas",
+            "MotorVehicleDeathsStateOfResidence": 4070,
+            "TrafficDeathsStateOfIncident": 3876,
+            "MotorVehicleDeathsPer100000Population": 13.9,
+            "TrafficDeathsPer10000MotorVehicles": 1.7,
+            "TrafficDeathsPer100000000VehicleMiles": 1.5
+          },
+          {
+            "State": "Utah",
+            "MotorVehicleDeathsStateOfResidence": 322,
+            "TrafficDeathsStateOfIncident": 276,
+            "MotorVehicleDeathsPer100000Population": 9.9,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 0.9
+          },
+          {
+            "State": "Vermont",
+            "MotorVehicleDeathsStateOfResidence": 68,
+            "TrafficDeathsStateOfIncident": 62,
+            "MotorVehicleDeathsPer100000Population": 10.9,
+            "TrafficDeathsPer10000MotorVehicles": 1.0,
+            "TrafficDeathsPer100000000VehicleMiles": 1.0
+          },
+          {
+            "State": "Virginia",
+            "MotorVehicleDeathsStateOfResidence": 931,
+            "TrafficDeathsStateOfIncident": 850,
+            "MotorVehicleDeathsPer100000Population": 10.8,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "Washington",
+            "MotorVehicleDeathsStateOfResidence": 683,
+            "TrafficDeathsStateOfIncident": 574,
+            "MotorVehicleDeathsPer100000Population": 8.9,
+            "TrafficDeathsPer10000MotorVehicles": 0.8,
+            "TrafficDeathsPer100000000VehicleMiles": 1.1
+          },
+          {
+            "State": "West Virginia",
+            "MotorVehicleDeathsStateOfResidence": 303,
+            "TrafficDeathsStateOfIncident": 267,
+            "MotorVehicleDeathsPer100000Population": 17.0,
+            "TrafficDeathsPer10000MotorVehicles": 1.6,
+            "TrafficDeathsPer100000000VehicleMiles": 1.7
+          },
+          {
+            "State": "Wisconsin",
+            "MotorVehicleDeathsStateOfResidence": 704,
+            "TrafficDeathsStateOfIncident": 612,
+            "MotorVehicleDeathsPer100000Population": 12.1,
+            "TrafficDeathsPer10000MotorVehicles": 1.1,
+            "TrafficDeathsPer100000000VehicleMiles": 0.9
+          },
+          {
+            "State": "Wyoming",
+            "MotorVehicleDeathsStateOfResidence": 115,
+            "TrafficDeathsStateOfIncident": 127,
+            "MotorVehicleDeathsPer100000Population": 19.7,
+            "TrafficDeathsPer10000MotorVehicles": 1.5,
+            "TrafficDeathsPer100000000VehicleMiles": 1
+        },
+        {
+          "State": "U.S. Total",
+          "MotorVehicleDeathsStateOfResidence": 42339,
+          "TrafficDeathsStateOfIncident": 39007,
+          "MotorVehicleDeathsPer100000Population": 12.9,
+          "TrafficDeathsPer10000MotorVehicles": 1.4,
+          "TrafficDeathsPer100000000VehicleMiles": 1.3
+        }
+        ]
+        },
+        {
+        "Year": 2019,
+        "Data": [
+        {
+          "State": "Alabama",
+          "MotorVehicleDeathsStateOfResidence": 1012,
+          "TrafficDeathsStateOfIncident": 930,
+          "MotorVehicleDeathsPer100000Population": 20.6,
+          "TrafficDeathsPer10000MotorVehicles": 1.8,
+          "TrafficDeathsPer100000000VehicleMiles": 1.3
+        },
+        {
+          "State": "Alaska",
+          "MotorVehicleDeathsStateOfResidence": 93,
+          "TrafficDeathsStateOfIncident": 67,
+          "MotorVehicleDeathsPer100000Population": 12.7,
+          "TrafficDeathsPer10000MotorVehicles": 0.8,
+          "TrafficDeathsPer100000000VehicleMiles": 1.1
+        },
+        {
+          "State": "Arizona",
+          "MotorVehicleDeathsStateOfResidence": 977,
+          "TrafficDeathsStateOfIncident": 979,
+          "MotorVehicleDeathsPer100000Population": 13.4,
+          "TrafficDeathsPer10000MotorVehicles": 1.6,
+          "TrafficDeathsPer100000000VehicleMiles": 1.4
+        },
+        {
+          "State": "Arkansas",
+          "MotorVehicleDeathsStateOfResidence": 556,
+          "TrafficDeathsStateOfIncident": 511,
+          "MotorVehicleDeathsPer100000Population": 18.4,
+          "TrafficDeathsPer10000MotorVehicles": 1.8,
+          "TrafficDeathsPer100000000VehicleMiles": 1.4
+        },
+        {
+          "State": "California",
+          "MotorVehicleDeathsStateOfResidence": 4013,
+          "TrafficDeathsStateOfIncident": 3719,
+          "MotorVehicleDeathsPer100000Population": 10.2,
+          "TrafficDeathsPer10000MotorVehicles": 1.2,
+          "TrafficDeathsPer100000000VehicleMiles": 1.1
+        },
+        {
+          "State": "Colorado",
+          "MotorVehicleDeathsStateOfResidence": 642,
+          "TrafficDeathsStateOfIncident": 597,
+          "MotorVehicleDeathsPer100000Population": 11.1,
+          "TrafficDeathsPer10000MotorVehicles": 1.1,
+          "TrafficDeathsPer100000000VehicleMiles": 1.1
+        },
+        {
+          "State": "Connecticut",
+          "MotorVehicleDeathsStateOfResidence": 268,
+          "TrafficDeathsStateOfIncident": 249,
+          "MotorVehicleDeathsPer100000Population": 7.5,
+          "TrafficDeathsPer10000MotorVehicles": 0.9,
+          "TrafficDeathsPer100000000VehicleMiles": 0.8
+        },
+        {
+          "State": "Delaware",
+          "MotorVehicleDeathsStateOfResidence": 133,
+          "TrafficDeathsStateOfIncident": 132,
+          "MotorVehicleDeathsPer100000Population": 13.7,
+          "TrafficDeathsPer10000MotorVehicles": 1.3,
+          "TrafficDeathsPer100000000VehicleMiles": 1.3
+        },
+        {
+          "State": "District of Columbia",
+          "MotorVehicleDeathsStateOfResidence": 44,
+          "TrafficDeathsStateOfIncident": 23,
+          "MotorVehicleDeathsPer100000Population": 6.2,
+          "TrafficDeathsPer10000MotorVehicles": 0.7,
+          "TrafficDeathsPer100000000VehicleMiles": 0.6
+        },
+        {
+          "State": "Florida",
+          "MotorVehicleDeathsStateOfResidence": 3301,
+          "TrafficDeathsStateOfIncident": 3185,
+          "MotorVehicleDeathsPer100000Population": 15.4,
+          "TrafficDeathsPer10000MotorVehicles": 1.8,
+          "TrafficDeathsPer100000000VehicleMiles": 1.4
+        },
+        {
+          "State": "Georgia",
+          "MotorVehicleDeathsStateOfResidence": 1537,
+          "TrafficDeathsStateOfIncident": 1492,
+          "MotorVehicleDeathsPer100000Population": 14.5,
+          "TrafficDeathsPer10000MotorVehicles": 1.7,
+          "TrafficDeathsPer100000000VehicleMiles": 1.1
+        },
+        {
+          "State": "Hawaii",
+          "MotorVehicleDeathsStateOfResidence": 121,
+          "TrafficDeathsStateOfIncident": 108,
+          "MotorVehicleDeathsPer100000Population": 8.5,
+          "TrafficDeathsPer10000MotorVehicles": 0.8,
+          "TrafficDeathsPer100000000VehicleMiles": 1.0
+        },
+        {
+          "State": "Idaho",
+          "MotorVehicleDeathsStateOfResidence": 256,
+          "TrafficDeathsStateOfIncident": 224,
+          "MotorVehicleDeathsPer100000Population": 14.3,
+          "TrafficDeathsPer10000MotorVehicles": 1.1,
+          "TrafficDeathsPer100000000VehicleMiles": 1.2
+        },
+        {
+          "State": "Illinois",
+          "MotorVehicleDeathsStateOfResidence": 1150,
+          "TrafficDeathsStateOfIncident": 1009,
+          "MotorVehicleDeathsPer100000Population": 9.1,
+          "TrafficDeathsPer10000MotorVehicles": 0.9,
+          "TrafficDeathsPer100000000VehicleMiles": 0.9
+        },
+        {
+          "State": "Indiana",
+          "MotorVehicleDeathsStateOfResidence": 872,
+          "TrafficDeathsStateOfIncident": 810,
+          "MotorVehicleDeathsPer100000Population": 13.0,
+          "TrafficDeathsPer10000MotorVehicles": 1.3,
+          "TrafficDeathsPer100000000VehicleMiles": 1.0
+        },
+        {
+          "State": "Iowa",
+          "MotorVehicleDeathsStateOfResidence": 367,
+          "TrafficDeathsStateOfIncident": 336,
+          "MotorVehicleDeathsPer100000Population": 11.6,
+          "TrafficDeathsPer10000MotorVehicles": 0.9,
+          "TrafficDeathsPer100000000VehicleMiles": 1.0
+        },
+        {
+          "State": "Kansas",
+          "MotorVehicleDeathsStateOfResidence": 404,
+          "TrafficDeathsStateOfIncident": 410,
+          "MotorVehicleDeathsPer100000Population": 13.9,
+          "TrafficDeathsPer10000MotorVehicles": 1.5,
+          "TrafficDeathsPer100000000VehicleMiles": 1.3
+        },
+        {
+          "State": "Kentucky",
+          "MotorVehicleDeathsStateOfResidence": 766,
+          "TrafficDeathsStateOfIncident": 732,
+          "MotorVehicleDeathsPer100000Population": 17.1,
+          "TrafficDeathsPer10000MotorVehicles": 1.7,
+          "TrafficDeathsPer100000000VehicleMiles": 1.5
+        },
+        {
+          "State": "Louisiana",
+          "MotorVehicleDeathsStateOfResidence": 763,
+          "TrafficDeathsStateOfIncident": 727,
+          "MotorVehicleDeathsPer100000Population": 16.4,
+          "TrafficDeathsPer10000MotorVehicles": 1.9,
+          "TrafficDeathsPer100000000VehicleMiles": 1.4
+        },
+        {
+          "State": "Maine",
+          "MotorVehicleDeathsStateOfResidence": 171,
+          "TrafficDeathsStateOfIncident": 157,
+          "MotorVehicleDeathsPer100000Population": 12.7,
+          "TrafficDeathsPer10000MotorVehicles": 1.4,
+          "TrafficDeathsPer100000000VehicleMiles": 1.1
+        },
+        {
+          "State": "Maryland",
+          "MotorVehicleDeathsStateOfResidence": 554,
+          "TrafficDeathsStateOfIncident": 535,
+          "MotorVehicleDeathsPer100000Population": 9.2,
+          "TrafficDeathsPer10000MotorVehicles": 1.3,
+          "TrafficDeathsPer100000000VehicleMiles": 0.9
+        },
+        {
+          "State": "Massachusetts",
+          "MotorVehicleDeathsStateOfResidence": 395,
+          "TrafficDeathsStateOfIncident": 336,
+          "MotorVehicleDeathsPer100000Population": 5.7,
+          "TrafficDeathsPer10000MotorVehicles": 0.7,
+          "TrafficDeathsPer100000000VehicleMiles": 0.5
+        },
+        {
+          "State": "Michigan",
+          "MotorVehicleDeathsStateOfResidence": 1073,
+          "TrafficDeathsStateOfIncident": 986,
+          "MotorVehicleDeathsPer100000Population": 10.7,
+          "TrafficDeathsPer10000MotorVehicles": 1.2,
+          "TrafficDeathsPer100000000VehicleMiles": 1.0
+        },
+        {
+          "State": "Minnesota",
+          "MotorVehicleDeathsStateOfResidence": 450,
+          "TrafficDeathsStateOfIncident": 364,
+          "MotorVehicleDeathsPer100000Population": 8.0,
+          "TrafficDeathsPer10000MotorVehicles": 0.7,
+          "TrafficDeathsPer100000000VehicleMiles": 0.6
+        },
+        {
+          "State": "Mississippi",
+          "MotorVehicleDeathsStateOfResidence": 750,
+          "TrafficDeathsStateOfIncident": 642,
+          "MotorVehicleDeathsPer100000Population": 25.2,
+          "TrafficDeathsPer10000MotorVehicles": 3.1,
+          "TrafficDeathsPer100000000VehicleMiles": 1.6
+        },
+        {
+          "State": "Missouri",
+          "MotorVehicleDeathsStateOfResidence": 963,
+          "TrafficDeathsStateOfIncident": 881,
+          "MotorVehicleDeathsPer100000Population": 15.7,
+          "TrafficDeathsPer10000MotorVehicles": 1.6,
+          "TrafficDeathsPer100000000VehicleMiles": 1.1
+        },
+        {
+          "State": "Montana",
+          "MotorVehicleDeathsStateOfResidence": 193,
+          "TrafficDeathsStateOfIncident": 184,
+          "MotorVehicleDeathsPer100000Population": 18.1,
+          "TrafficDeathsPer10000MotorVehicles": 1.0,
+          "TrafficDeathsPer100000000VehicleMiles": 1.4
+        },
+        {
+          "State": "Nebraska",
+          "MotorVehicleDeathsStateOfResidence": 263,
+          "TrafficDeathsStateOfIncident": 248,
+          "MotorVehicleDeathsPer100000Population": 13.6,
+          "TrafficDeathsPer10000MotorVehicles": 1.3,
+          "TrafficDeathsPer100000000VehicleMiles": 1.2
+        },
+        {
+          "State": "Nevada",
+          "MotorVehicleDeathsStateOfResidence": 306,
+          "TrafficDeathsStateOfIncident": 304,
+          "MotorVehicleDeathsPer100000Population": 9.9,
+          "TrafficDeathsPer10000MotorVehicles": 1.2,
+          "TrafficDeathsPer100000000VehicleMiles": 1.1
+        },
+        {
+          "State": "New Hampshire",
+          "MotorVehicleDeathsStateOfResidence": 107,
+          "TrafficDeathsStateOfIncident": 101,
+          "MotorVehicleDeathsPer100000Population": 7.9,
+          "TrafficDeathsPer10000MotorVehicles": 0.7,
+          "TrafficDeathsPer100000000VehicleMiles": 0.7
+        },
+        {
+          "State": "New Jersey",
+          "MotorVehicleDeathsStateOfResidence": 599,
+          "TrafficDeathsStateOfIncident": 558,
+          "MotorVehicleDeathsPer100000Population": 6.7,
+          "TrafficDeathsPer10000MotorVehicles": 0.9,
+          "TrafficDeathsPer100000000VehicleMiles": 0.7
+        },
+        {
+          "State": "New Mexico",
+          "MotorVehicleDeathsStateOfResidence": 401,
+          "TrafficDeathsStateOfIncident": 425,
+          "MotorVehicleDeathsPer100000Population": 19.1,
+          "TrafficDeathsPer10000MotorVehicles": 2.3,
+          "TrafficDeathsPer100000000VehicleMiles": 1.5
+        },
+        {
+          "State": "New York",
+          "MotorVehicleDeathsStateOfResidence": 1119,
+          "TrafficDeathsStateOfIncident": 934,
+          "MotorVehicleDeathsPer100000Population": 5.8,
+          "TrafficDeathsPer10000MotorVehicles": 0.8,
+          "TrafficDeathsPer100000000VehicleMiles": 0.8
+        },
+        {
+          "State": "North Carolina",
+          "MotorVehicleDeathsStateOfResidence": 1602,
+          "TrafficDeathsStateOfIncident": 1457,
+          "MotorVehicleDeathsPer100000Population": 15.3,
+          "TrafficDeathsPer10000MotorVehicles": 1.7,
+          "TrafficDeathsPer100000000VehicleMiles": 1.2
+        },
+        {
+          "State": "North Dakota",
+          "MotorVehicleDeathsStateOfResidence": 102,
+          "TrafficDeathsStateOfIncident": 100,
+          "MotorVehicleDeathsPer100000Population": 13.4,
+          "TrafficDeathsPer10000MotorVehicles": 1.1,
+          "TrafficDeathsPer100000000VehicleMiles": 1.0
+        },
+        {
+          "State": "Ohio",
+          "MotorVehicleDeathsStateOfResidence": 1282,
+          "TrafficDeathsStateOfIncident": 1153,
+          "MotorVehicleDeathsPer100000Population": 11.0,
+          "TrafficDeathsPer10000MotorVehicles": 1.1,
+          "TrafficDeathsPer100000000VehicleMiles": 1.0
+        },
+        {
+          "State": "Oklahoma",
+          "MotorVehicleDeathsStateOfResidence": 690,
+          "TrafficDeathsStateOfIncident": 640,
+          "MotorVehicleDeathsPer100000Population": 17.4,
+          "TrafficDeathsPer10000MotorVehicles": 1.7,
+          "TrafficDeathsPer100000000VehicleMiles": 1.4
+        },
+        {
+          "State": "Oregon",
+          "MotorVehicleDeathsStateOfResidence": 534,
+          "TrafficDeathsStateOfIncident": 493,
+          "MotorVehicleDeathsPer100000Population": 12.7,
+          "TrafficDeathsPer10000MotorVehicles": 1.3,
+          "TrafficDeathsPer100000000VehicleMiles": 1.4
+        },
+        {
+          "State": "Pennsylvania",
+          "MotorVehicleDeathsStateOfResidence": 1130,
+          "TrafficDeathsStateOfIncident": 1059,
+          "MotorVehicleDeathsPer100000Population": 8.8,
+          "TrafficDeathsPer10000MotorVehicles": 1.0,
+          "TrafficDeathsPer100000000VehicleMiles": 1.0
+        },
+        {
+          "State": "Rhode Island",
+          "MotorVehicleDeathsStateOfResidence": 74,
+          "TrafficDeathsStateOfIncident": 57,
+          "MotorVehicleDeathsPer100000Population": 7.0,
+          "TrafficDeathsPer10000MotorVehicles": 0.7,
+          "TrafficDeathsPer100000000VehicleMiles": 0.8
+        },
+        {
+          "State": "South Carolina",
+          "MotorVehicleDeathsStateOfResidence": 1016,
+          "TrafficDeathsStateOfIncident": 1006,
+          "MotorVehicleDeathsPer100000Population": 19.7,
+          "TrafficDeathsPer10000MotorVehicles": 2.2,
+          "TrafficDeathsPer100000000VehicleMiles": 1.7
+        },
+        {
+          "State": "South Dakota",
+          "MotorVehicleDeathsStateOfResidence": 134,
+          "TrafficDeathsStateOfIncident": 102,
+          "MotorVehicleDeathsPer100000Population": 15.1,
+          "TrafficDeathsPer10000MotorVehicles": 0.8,
+          "TrafficDeathsPer100000000VehicleMiles": 1.0
+        },
+        {
+          "State": "Tennessee",
+          "MotorVehicleDeathsStateOfResidence": 1179,
+          "TrafficDeathsStateOfIncident": 1136,
+          "MotorVehicleDeathsPer100000Population": 17.3,
+          "TrafficDeathsPer10000MotorVehicles": 2.0,
+          "TrafficDeathsPer100000000VehicleMiles": 1.4
+        },
+        {
+          "State": "Texas",
+          "MotorVehicleDeathsStateOfResidence": 3858,
+          "TrafficDeathsStateOfIncident": 3619,
+          "MotorVehicleDeathsPer100000Population": 13.3,
+          "TrafficDeathsPer10000MotorVehicles": 1.6,
+          "TrafficDeathsPer100000000VehicleMiles": 1.3
+        },
+        {
+          "State": "Utah",
+          "MotorVehicleDeathsStateOfResidence": 248,
+          "TrafficDeathsStateOfIncident": 248,
+          "MotorVehicleDeathsPer100000Population": 7.7,
+          "TrafficDeathsPer10000MotorVehicles": 1.0,
+          "TrafficDeathsPer100000000VehicleMiles": 0.8
+        },
+        {
+          "State": "Vermont",
+          "MotorVehicleDeathsStateOfResidence": 57,
+          "TrafficDeathsStateOfIncident": 47,
+          "MotorVehicleDeathsPer100000Population": 9.1,
+          "TrafficDeathsPer10000MotorVehicles": 0.8,
+          "TrafficDeathsPer100000000VehicleMiles": 0.6
+        },
+        {
+          "State": "Virginia",
+          "MotorVehicleDeathsStateOfResidence": 894,
+          "TrafficDeathsStateOfIncident": 831,
+          "MotorVehicleDeathsPer100000Population": 10.5,
+          "TrafficDeathsPer10000MotorVehicles": 1.1,
+          "TrafficDeathsPer100000000VehicleMiles": 1.0
+        },
+        {
+          "State": "Washington",
+          "MotorVehicleDeathsStateOfResidence": 630,
+          "TrafficDeathsStateOfIncident": 538,
+          "MotorVehicleDeathsPer100000Population": 8.3,
+          "TrafficDeathsPer10000MotorVehicles": 0.7,
+          "TrafficDeathsPer100000000VehicleMiles": 0.9
+        },
+        {
+          "State": "West Virginia",
+          "MotorVehicleDeathsStateOfResidence": 330,
+          "TrafficDeathsStateOfIncident": 260,
+          "MotorVehicleDeathsPer100000Population": 18.4,
+          "TrafficDeathsPer10000MotorVehicles": 1.6,
+          "TrafficDeathsPer100000000VehicleMiles": 1.4
+        },
+        {
+          "State": "Wisconsin",
+          "MotorVehicleDeathsStateOfResidence": 616,
+          "TrafficDeathsStateOfIncident": 567,
+          "MotorVehicleDeathsPer100000Population": 10.6,
+          "TrafficDeathsPer10000MotorVehicles": 1.0,
+          "TrafficDeathsPer100000000VehicleMiles": 0.9
+        },
+        {
+          "State": "Wyoming",
+          "MotorVehicleDeathsStateOfResidence": 112,
+          "TrafficDeathsStateOfIncident": 147,
+          "MotorVehicleDeathsPer100000Population": 19.4,
+          "TrafficDeathsPer10000MotorVehicles": 1.7,
+          "TrafficDeathsPer100000000VehicleMiles": 1.4
+        },
+        {
+          "State": "U.S. Total",
+          "MotorVehicleDeathsStateOfResidence": 39107,
+          "TrafficDeathsStateOfIncident": 36355,
+          "MotorVehicleDeathsPer100000Population": 11.9,
+          "TrafficDeathsPer10000MotorVehicles": 1.3,
+          "TrafficDeathsPer100000000VehicleMiles": 1.1
+        }
+        ]
+        }
+    ]
+}
+  
+
+
+
+

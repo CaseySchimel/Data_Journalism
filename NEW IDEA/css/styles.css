@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    min-height: 200vh;
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 50px; 
+}
+
+#chart, #brand-chart {
+    margin: auto;
+    width: 100%;
+    height: 700px;
+    overflow: auto;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: 40px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+    stroke-width: 1px; 
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 8px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+#legend {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    width: 100%; 
+    height: 100px; 
+}
+
+#crash-info {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+
+.line {
+    fill: none; 
+    stroke-width: 2.5px; 
+}
+
+.line.car-crashes-line {
+    stroke: red;
+}
+
+.line.population-line {
+    stroke: rgb(21, 210, 21);
+}
+
+.best-fit-line.car-crashes-best-fit {
+    stroke: darkred;
+}
+
+.best-fit-line.population-best-fit {
+    stroke: rgb(13, 40, 13);
+}
+
+.legend rect {
+    stroke: #fff;
+    stroke-width: 1px;
+}
+
+.legend text {
+    font-size: 12px;
+    text-anchor: start;
+}
+

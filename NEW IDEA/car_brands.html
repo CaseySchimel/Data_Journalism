@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Brands</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="js/brands.js" defer></script>
+    <link rel="stylesheet" href="css/styles2.css">
+</head>
+<body>
+    <header>
+        <h1>Motor Vehicle Deaths by State:</h1>
+        <nav>
+            <a href="index.html">About</a>
+            <a href="us_car_crashes.html">US Car Crashes</a>
+            <a href="car_brands.html">By-State Moter-Vehicle Deaths</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Top 5 Most Common Car Brands Used Per State</h2>
+        <div class="large-visualization">
+            <label for="state-select">Choose a state:</label>
+            <select id="state-select"></select>
+            <label for="date-select">Choose a date:</label>
+            <select id="date-select"></select>
+            <table id="brand-table">
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>Brand</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+        <div id="usa">
+            <object type="image/svg+xml" data="usa.svg" width="100%" height="650px" id="usa-map"></object>
+        </div>
+
+        <section id="brand-info">
+            <h3>Trends in Car Brand Popularity</h3>
+            <p>The popularity of car brands varies significantly across different states. Here are some observations:</p>
+            <ul>
+                <li><strong>Truck Dominance:</strong> In many states, trucks like the Ford F-Series and Chevrolet Silverado are highly popular.</li>
+                <li><strong>SUV Popularity:</strong> SUVs such as the Toyota RAV4 and Honda CR-V are popular choices in various states.</li>
+                <li><strong>Regional Preferences:</strong> Different regions have distinct preferences based on factors like terrain and climate.</li>
+            </ul>
+            <h3>Factors Influencing Car Brand Popularity</h3>
+            <ul>
+                <li><strong>Brand Loyalty:</strong> Customers tend to stick with brands they trust and have had good experiences with.</li>
+                <li><strong>Economic Factors:</strong> Price and availability of financing options influence brand popularity.</li>
+                <li><strong>Marketing and Advertising:</strong> Effective marketing campaigns can boost a brand's popularity.</li>
+            </ul>
+        </section>
+        <button onclick="window.location.reload();">Bring Back Map</button>
+    </main>
+    <footer>
+        <p>&copy; SCHIMEL CORP</p>
+    </footer>
+</body>
+</html>
